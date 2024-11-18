@@ -1,3 +1,7 @@
+# Website dribble template preview - 
+
+<img width="1592" alt="Screenshot 2024-11-13 at 6 16 27 PM" src="https://github.com/user-attachments/assets/523a18d6-8a26-471c-b00b-d2f98685b404">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
