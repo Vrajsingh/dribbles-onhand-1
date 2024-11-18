@@ -1,16 +1,19 @@
 import React from "react";
-import dribbleImage from "../../assets/dribble-1.png";
+import dribbleImage from "../../assets/dribble.png";
 import Brief from "../Brief/Brief";
+import { FaArrowRight } from "react-icons/fa";
 
 const About = () => {
   return (
     <div className="flex flex-col md:flex-row">
-      <div>
+      <div className="relative">
         <img
           src={dribbleImage}
-          className="md:h-[780px] md:w-[900px] h-[500px] w-full mt-20"
+          className="md:h-[780px] md:w-[900px] h-[500px] w-full mt-20 rounded-3xl pl-2 pr-2"
           alt="dribble"
         />
+        <button className="absolute top-[28rem] left-[8.25rem] md:top-[48.5rem] md:left-[15.25rem] bg-white text-black px-4 py-4 rounded-xl z-10">View More</button>
+        <FaArrowRight className="flex justify-end absolute top-[28.5rem] left-[16.25rem] md:top-[49rem] md:left-[23rem] bg-gray-200 rounded-full text-4xl p-2" />
       </div>
       <div className="bg-gray-200 mt-[90px] md:ml-5 mr-5 md:h-[750px] md:w-[1800px] h-[1500px] md:h-[750px] w-full rounded-3xl">
         <h1 className="text-3xl md:text-7xl md:mt-10 mt-10 ml-10 md:ml-20 max-w-5xl">
