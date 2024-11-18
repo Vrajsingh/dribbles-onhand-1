@@ -48,7 +48,7 @@ const Brief = () => {
                   "w-24 h-30 object-cover rounded-full mx-2 justify-center flex items-center" +
                   (activeImageIndex === i ? " block" : " hidden")
                 }
-                alt="Image slider"
+                alt="Slider"
               />
             );
           })}
