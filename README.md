@@ -1,6 +1,10 @@
-# Website dribble template preview - 
+# Website dribble template web preview - 
 
 <img width="1592" alt="Screenshot 2024-11-13 at 6 16 27 PM" src="https://github.com/user-attachments/assets/523a18d6-8a26-471c-b00b-d2f98685b404">
+
+# website dribble template mobile view -
+
+![screencapture-localhost-3000-2024-11-18-10_42_41](https://github.com/user-attachments/assets/5d68f7db-13b6-47dc-916a-100b08994578)
 
 # Getting Started with Create React App
 
